@@ -1,1 +1,1 @@
-# UCLA_CS_CM_182_Biosystem_Modeling_and_Modeling
+# UCLA_CS_CM_182_Biosystem_Simulation_and_Modeling
